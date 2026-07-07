@@ -10,3 +10,7 @@ Project Backups/
 *.axf
 *.uvgui.*
 *.build_log.htm
+*.uvopt
+*.uvgui.*
+*.workspace
+*.pdsprj
