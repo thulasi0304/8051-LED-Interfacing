@@ -1,0 +1,12 @@
+Objects/
+Listings/
+Project Backups/
+
+*.hex
+*.obj
+*.lst
+*.m51
+*.lnp
+*.axf
+*.uvgui.*
+*.build_log.htm
