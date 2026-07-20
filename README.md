@@ -17,5 +17,3 @@ This project demonstrates LED interfacing using the AT89C51 microcontroller prog
 - STARTUP.A51 – Startup file
 - Circuit.png – Proteus circuit diagram
 
-## Author
-Thulasi Sankar
